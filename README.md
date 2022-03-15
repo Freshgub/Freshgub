@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Freshgub
-- 👀 I’m interested in learning coding and pursuits a carrer on tech
+- 👀 I’m interested in learning coding and pursuits a carrier on tech
 - 🌱 I’m currently learning python, sql, html, 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me? just message me!
